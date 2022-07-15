@@ -1,1 +1,1 @@
-# am_cv
+# Testing segmentation code for AM data
